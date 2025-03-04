@@ -7,13 +7,13 @@ export function Footer() {
     <footer>
       <FooterContainer>
       <h5>
-        &copy; 2022 {' '}
-        <a href="https://www.evanderinacio.com/" target="_blank">
-         Evander Inácio
+        &copy; 2025 {' '}
+        <a href="https://portfolio-anna-laura.vercel.app/" target="_blank">
+         Anna Laura 
         </a>
       </h5>
       <p>
-        <a href="https://github.com/EvanderInacio/Turtle-Movie" target="_blank">
+        <a href="https://github.com/annalaura2/turtle-movies" target="_blank">
           <FaGithub />
         </a>
       </p>
